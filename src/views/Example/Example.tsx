@@ -54,6 +54,7 @@ const Example = () => {
 
         <Button onClick={send}>Set PrevScroe</Button>
         <div>current score: {score}</div>
+
     </div>;
 };
 
